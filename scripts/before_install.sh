@@ -1,2 +1,2 @@
 #!bin/bash
-echo "Running BeforeInstall hook"
+echo "Running BeforeInstall hooks"
